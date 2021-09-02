@@ -8,6 +8,7 @@ public class SomeNewChanges2 : MonoBehaviour
     void Start()
     {
         //SomeNewChanges2
+        //SomeNewTest change to version 1.0.2
     }
 
     // Update is called once per frame
