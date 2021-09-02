@@ -1,6 +1,6 @@
 {
   "name": "com.mycustompackage.example",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "displayName": "Package Example",
   "description": "This is an example package",
   "unity": "2020.3",
